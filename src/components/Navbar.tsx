@@ -13,7 +13,7 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <span className="text-2xl font-bold">
-              UNITY <span className="text-accent">FUND</span>
+              HEART <span className="text-accent">FUND</span>
             </span>
           </Link>
 
@@ -38,7 +38,7 @@ const Navbar = () => {
           {/* Phone Number */}
           <div className="hidden lg:flex items-center space-x-2 bg-accent text-accent-foreground px-4 py-2 rounded-lg">
             <Phone className="w-4 h-4" />
-            <span className="font-semibold">+1 234-567-890</span>
+            <span className="font-semibold ">CALL US</span>
           </div>
 
           {/* Mobile Menu Button */}

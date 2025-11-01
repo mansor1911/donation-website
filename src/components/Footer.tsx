@@ -9,7 +9,7 @@ const Footer = () => {
           {/* About Section */}
           <div>
             <h3 className="text-2xl font-bold mb-4">
-              UNITY <span className="text-accent">FUND</span>
+              HEART <span className="text-accent">FUND</span>
             </h3>
             <p className="text-primary-foreground/80 mb-4">
               Making a difference in communities worldwide through compassionate giving and dedicated support.
@@ -58,14 +58,7 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact Us</h4>
             <ul className="space-y-3">
-              <li className="flex items-center space-x-2 text-primary-foreground/80">
-                <MapPin className="w-5 h-5 flex-shrink-0" />
-                <span>123 Unity Street, Hope City, HC 12345</span>
-              </li>
-              <li className="flex items-center space-x-2 text-primary-foreground/80">
-                <Phone className="w-5 h-5 flex-shrink-0" />
-                <span>+1 234-567-890</span>
-              </li>
+                
               <li className="flex items-center space-x-2 text-primary-foreground/80">
                 <Mail className="w-5 h-5 flex-shrink-0" />
                 <span>info@unityfund.org</span>
@@ -74,9 +67,7 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center text-primary-foreground/60">
-          <p>&copy; 2024 Unity Fund. All Rights Reserved.</p>
-        </div>
+        
       </div>
     </footer>
   );

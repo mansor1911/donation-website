@@ -57,7 +57,7 @@ const About = () => {
       {/* Hero Section */}
       <section className="bg-primary text-primary-foreground py-20">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-5xl font-bold mb-6">About Unity Fund</h1>
+          <h1 className="text-5xl font-bold mb-6">About Heart Fund</h1>
           <p className="text-xl max-w-3xl mx-auto text-primary-foreground/90">
             We are a dedicated nonprofit organization committed to creating positive change through compassionate action and community support.
           </p>
@@ -151,13 +151,13 @@ const About = () => {
             <h2 className="text-4xl font-bold mb-6 text-center text-foreground">Our Story</h2>
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p className="text-lg leading-relaxed mb-6">
-                Unity Fund was founded in 2010 with a simple yet powerful belief: that communities thrive when people come together to support one another. What began as a small grassroots initiative has grown into a comprehensive nonprofit organization serving thousands of families each year.
+                Heart Fund was founded in 2010 with a simple yet powerful belief: that communities thrive when people come together to support one another. What began as a small grassroots initiative has grown into a comprehensive nonprofit organization serving thousands of families each year.
               </p>
               <p className="text-lg leading-relaxed mb-6">
                 Over the past decade, we've witnessed the transformative power of collective compassion. From providing emergency assistance to families in crisis, to funding educational programs for underprivileged children, to supporting healthcare initiatives in underserved communities—our work continues to expand as we respond to the evolving needs of those we serve.
               </p>
               <p className="text-lg leading-relaxed">
-                Today, Unity Fund stands as a testament to what can be achieved when dedicated individuals unite for a common cause. With the support of our donors, volunteers, and partners, we continue to build a brighter, more equitable future for all.
+                Today, Heart Fund stands as a testament to what can be achieved when dedicated individuals unite for a common cause. With the support of our donors, volunteers, and partners, we continue to build a brighter, more equitable future for all.
               </p>
             </div>
           </div>

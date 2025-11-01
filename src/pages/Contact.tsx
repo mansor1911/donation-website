@@ -40,7 +40,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Address",
-      content: "123 Unity Street, Hope City, HC 12345",
+      content: "123 heart Street, Hope City",
     },
     {
       icon: Phone,
@@ -50,7 +50,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      content: "info@unityfund.org",
+      content: "info@heartfund.org",
     },
   ];
 
